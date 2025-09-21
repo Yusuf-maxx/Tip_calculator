@@ -24,3 +24,7 @@ This app helps you quickly calculate the tip, total bill, and per-person share w
 ---
 
 ## 📂 Project Structure
+Tip_Calculator/<br>
+│-- image <br>
+│-- index.html<br>
+│-- README.md
