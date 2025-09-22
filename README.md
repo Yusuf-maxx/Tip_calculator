@@ -33,4 +33,5 @@ Tip_Calculator/<br>
 
 ## 🖼️ Preview  
 
-![Form Validator Demo](image/SS_quote1.png)
+![TIP_CALCULATOR](image/SS_quote1.png)
+![TIP_CALCULATOR](image/SS_quote1.png)
