@@ -28,3 +28,9 @@ Tip_Calculator/<br>
 │-- image <br>
 │-- index.html<br>
 │-- README.md
+
+---
+
+## 🖼️ Preview  
+
+![Form Validator Demo](image/SS_quote1.png)
