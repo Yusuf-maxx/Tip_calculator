@@ -32,6 +32,6 @@ Tip_Calculator/<br>
 ---
 
 ## 🖼️ Preview  
-
+o
 ![TIP_CALCULATOR](images/SS_tip1.png.png)
 ![TIP_CALCULATOR](images/SS_tip2.png.png)
