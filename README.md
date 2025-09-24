@@ -40,4 +40,4 @@ o
 
 ## ⚡ live demo 
 1. Clone this repository:  
-[Live Demo](https://yusuf-maxx.github.io/Randon_Quote_Genretor/)
+[Live Demo](https://yusuf-maxx.github.io/Tip_calculator/)
