@@ -35,3 +35,9 @@ Tip_Calculator/<br>
 o
 ![TIP_CALCULATOR](image/SS_tip1.png)
 ![TIP_CALCULATOR](image/SS_tip2.png)
+
+---
+
+## ⚡ live demo 
+1. Clone this repository:  
+[Live Demo](https://yusuf-maxx.github.io/Randon_Quote_Genretor/)
